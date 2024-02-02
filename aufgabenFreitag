@@ -1,0 +1,43 @@
+Aufgaben:
+
+
+1. 
+ - Kopiere die bis dato erledigten aufgaben ein einem .md Dokument in deinem Git Repo. (Dann haben wir alles an einem Ort)
+2. 
+Rückfragen zur Textaufgabe: 
+- Der Kunde möchte dein Angebot gerne annehmen. 
+- Erstelle ein Textdokument, wo du einmal alle Komponenten auflistest, die du für dieses Projekt brauchst. 
+- Wir wechseln von Cloud (Digitalocean) dazu, dass der Kunde On Premise haben will.... aber was bedeutet On Premise eigentlich?
+- Der Kunde hat aktuell nichts im Büro stehen. Es gibt nur einen Router mit Internetanschluss
+- Nimm die Liste deiner Komponenten und definiere einmal den Kompletten weg, wie Packete aus dem Internet auf deinem Webserver landen. 
+- Der Kunde möchte seinen Server in einem Serverraum im Büro aufstellen. Was ist zu beachten? Was braucht ein Serverraum?
+- Suche einen passenden Server für deinen Kunden raus. 
+- Schreib deinem Kunden eine Fiktive Rechnung für Server, Einrichtung und Wartungsvertrag. 
+
+3. 
+Python: 
+- Schreibe ein Python Skipt:
+  - Dieses soll einen Ordner erstellen. 
+  - 3 Datein in diesem Ordner erstellen (Mickey, Donald und Goofy)
+  - Einen weiteren Ordner erstellen mit dem Namen Disney
+  - Nur die Datei Mickey in den Ordner Disney kopieren. 
+
+4. 
+Fragen: 
+Datenschutz: Suche eine Cloud (Datenspeicher) die auch Ärzte nutzen können, für Patientenakten
+
+Hacking:
+  - Was bedeutet hacking?
+  - Was bdeuetet Ethical hacking
+
+Konzern Linux: 
+  - Nenne 3 Linux Distros, die von Konzernen genutzt werden. 
+  - Nenne 2 Vor/Nachteile von Opensouce/Community Linux Distros im Vergleich zu Konzern Linux Distros
+  - Erläutere, mit welchem OpenSource Linux Distros Red Hat verbunden ist und warum?
+  - Wie hat sich Red Hat in den vergangenen Monaten gegenüber der OpenSource Community verhalten?
+  - Was sind alternativen zu Red Hat Linux
+
+Server Linux:
+  - Würdest du eine Rolling Release als Server Linux nutzen? Wenn ja welches und warum?
+  - Was beudetet Bare Metal im Server umfeld?
+  - Wie kannst du sicherstellen, dass nur du per SSH auf deinen Server zugreifen kannst? Was sind hier Sicherheitsvorkehrungen?
