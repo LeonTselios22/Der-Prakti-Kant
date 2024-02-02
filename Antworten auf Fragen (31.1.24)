@@ -1,0 +1,30 @@
+
+- 1st Technik ist Automatisierung mit Konfigurationsmanagement-Tools, es gibt verschiedene Tools wie z.b. Ansible, Puppet oder auch SaltStack die sorgen für die automatischen Software Updates, Upgrades auf den Servern. Dadurch spart sich eine menge Zeit und Arbeit und es ermöglicht eine einfache Überwachung von den Servern.
+
+	- 2te Technik ist die mit den Containersierung mit Dockern oder auch Kubernetes. Durch die Verwendung von Containern und Kubernetes kann man Anwendungen in einem einheitlichen Feld verpacken und ganz einfach auf die Server bereitstellen. Natürlich können auch Updates dadurch bereitgestellt werden. 
+------------------------------------------------------------------------
+
+OpenSource: OpenSource bezieht sich auf die Software deren Quellcode kostenlos und freizugänglich für den jeden ist außerdem kann man sie an jeden verschicken.
+
+Vorteile:   -Es ist Kostenlos
+        -OpenSource Codes sind sehr flexibel man kann sie anpassen wie man möchte. 
+        -Die Entwickler vom OpenSource Code überprüfen jederzeit das es keine Sicherheitslücken gibt.
+
+Nachteile: -Es gibt kein richtigen Support wie bei einer ClosedSource 
+          -Es kann auch schwierig werden mit den Versionen weil es öfters keine offizielle Unterstützung gibt.
+
+Closed Source: Closed-Source-Software (auch als proprietäre Software bezeichnet) ist Software, deren Quellcode nicht öffentlich verfügbar ist. Der Quellcode wird vom Entwickler oder Unternehmen geschützt.
+
+Vorteile: -Es gibt jederzeit Support und eine Garantie auf das Produkt.
+        - Es ist Benutzerfreundlich
+        - Öfters sind auch Integrierte Lösungen dabei speziell auch auf den Kunden.
+
+
+Nachteile: -Es entstehen Kosten
+         -Es gibt ein Mangel an Anpassungsmöglichkeiten
+         -und man ist Abhängig
+
+
+Chrome Sicherheitslücken
+- Zurzeit hat Chrome keine Sicherheitslücken die letzen 4 wurden heute gegen 8 Uhr geschlossen. 
+	- Aber mögliche Sicherheitslücken waren das "Angreifer" Schadcodes auf Websiten eingeschleust haben.
