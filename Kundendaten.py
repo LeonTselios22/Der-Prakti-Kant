@@ -1,15 +1,15 @@
-Name = input("Gib dein richtigen Namen ein: ")
+Name = input("Geben Sie ihren Namen ein: ")
 print("Name is: " + Name)
 
 
 
-Alter = input("Wie alt biste?: ")
+Alter = input("Geben Sie ihr Alter ein: ")
 print("Alter is: " + Alter)
 
 
 
 
-username = input("Gib dein User Name ein: ")
+username = input("Geben Sie ihren Usernamen ein: ")
 print("Username is: " + username)
 
 
@@ -32,46 +32,15 @@ datei.write(" \nAlter " + Alter)
 
 datei.write(" \nUsername " + username)
 
-#Hallo Marcel du bist cool wenn du das ließt.
+# Sehr guter Code!
 
 
-#       _v   ,,
- #     /`|   &&.
-  #    `-\`-&&&&&.
-   #      \&&&&&&&\
-    #      &&#""&& \
-     #    / |   |\  x
-      #   \ |  / /
-
-
- #                     _.-**-._
- #                   _,(        ),_
- #                .-"   '-^----'   "-.
- #             .-'                    '-.
- #           .'                          '.
- #         .'    __.--**'""""""'**--.__    '.
- #        /_.-*"'__.--**'""""""'**--.__'"*-._\
- #       /_..-*"'   .-*"*-.  .-*"*-.   '"*-.._\
- #      :          /       ;:       \          ;
- #      :         :     *  !!  *     :         ;
- #       \        '.     .'  '.     .'        /
- #        \         '-.-'      '-.-'         /
- #     .-*''.                              .'-.
- #  .-'      '.                          .'    '.
- # :           '-.        _.._        .-'        '._
- #;"*-._          '-._  --___ `   _.-'        _.*'  '*.
-#:#      '.            `"*-.__.-*"`           (        :
- #;      ;                 *|                 '-.     ;
- # '---*'                   |                    ""--'
- #  :                      *|                      :
- #  '.                      |                     .'
- #    '.._                 *|        ____----.._-'
- #     \  """----_____------'-----"""         /
- #      \  __..-------.._        ___..---._  /
- #      :'"              '-..--''          "';
- #       '""""""""""""""""' '"""""""""""""""'
-
-
+#     __.------~~~-.
+#   ,'/             `\
+#   " \  ,..__ | ,_   `\_,
+#      >/|/   ~~\||`\(`~,~'
+#      | `\     /'|   \_;
+#        "   "   "
 
 
       
