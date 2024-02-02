@@ -41,3 +41,97 @@ Server Linux:
   - Würdest du eine Rolling Release als Server Linux nutzen? Wenn ja welches und warum?
   - Was beudetet Bare Metal im Server umfeld?
   - Wie kannst du sicherstellen, dass nur du per SSH auf deinen Server zugreifen kannst? Was sind hier Sicherheitsvorkehrungen?
+
+---------------------------------------------------------------Antworten------------------------------------------------------------
+
+Hallo Herr Meier,
+wir freuen uns außerordentlich, Ihnen mitteilen zu dürfen, dass Sie unser Angebot angenommen haben. Herzlichen Dank für Ihr Vertrauen in unsere Dienstleistungen/Produkte.
+Wir freuen uns auf die Zusammenarbeit miteinander.
+
+-------------
+
+
+Hardware-Komponenten:
+1. Den Server
+2. Netzwerkkomponenten (Router, Kabel, für funktionierendes Netzwerk)
+3. Speicher
+
+Betriebssystem:
+ 1. Linux (Ubuntu, CentOS)
+
+Webserver-Software
+1. Apache
+2. Nginx
+
+Sicherheitssoftware:
+1. Firewall (Linux Firewall)
+2. SSL Zertifikate für sichere Verbindung
+
+Domain/DNS
+1. Eine eigene Domain/Zugeordnet zu der IP Adresse
+
+Webinhalte:
+1. Hochladen von HTML, CSS Dateien und andere Ressourcen
+
+Backups:
+1. Erstellung eines regelmäßingen Backups Plan um Datenverlust zu verhindern.
+
+Verwaltung:
+1. Konfiguration von bestimmten rechten und 2fa Methoden.
+
+
+------------------------------
+
+Das bedeutet, wenn ein Kunde sich für On-Premise-Lösungen entscheidet, bedeutet das, dass die Hardware, Software und alle damit verbundenen Ressourcen in den eigenen Rechenzentren des Kunden installiert und gewartet werden.
+
+------------------------------
+
+Das reicht ja völlig aus aus um einen Webserver zu hosten. Hauptsache es gibt eine stabile Verbindung.
+
+-------------------------------
+
+Benutzeranfrage:
+Ein Benutzer gibt die Domain in seinen Browser ein.
+
+DNS-Auflösung:
+Die Domain wird in eine IP-Adresse übersetzt.
+
+Internetweg:
+Datenpakete reisen über das Internet zum Webserver.
+
+Firewall und Router:
+Am Server angekommen, passieren die Pakete die Firewall und den Router.
+
+Webserver:
+Die Webserver-Software auf dem Server verarbeitet die Anfrage.
+
+
+Webinhalte zurücksenden:
+Die Webinhalte werden über denselben Weg zurück zum Benutzer geschickt.
+
+Anzeige im Browser:
+Die Webseite wird im Browser des Benutzers angezeigt.
+
+------------------------------------------
+
+Der Kunde möchte seinen Server in einem Serverraum im Büro aufstellen. Was ist zu beachten? Was braucht ein Serverraum?
+
+- Einmal die Belüftung/Klimatisierung für die Server damit die nicht überhitzen
+
+- Stromversorgung: Man brauch eine unterbrechungfreie Stromversorgung um den Server vor Stromausfällen zu schützen.
+
+- Der Serverraum kann nur mit bestimmten schlüsseln geöffnet werden (Sicherheitsschlüssel)
+
+- Brandschutz ist auch ganz wichtig damit falls die Server mal Feuer fangen man dies direkt löschen kann. Also man brauch Feuermelder, Feuerlöscher.
+
+- Man brauch auch eine zuverlässige Netzwerk-Infrastruktur
+
+- Strukturiertes Kabelmanagment
+
+-------------------
+
+Für Ihren Webserver ist der passendste Server der: HPE ProLiant DL360 Gen10 (8xSFF) Performance Rack Server mit 2x Xeon Gold 6144 8-Core 3.50 GHz, 32 GB DDR4 RAM.
+
+--------------------
+
+
