@@ -1,0 +1,18 @@
+Hallo Herr Meier,
+
+Sie wollten sich einen Webserver anschaffen; anbei finden Sie eine Auflistung der Kosten.
+
+- Zuerst werden wir den Server aufsetzen, einrichten und natürlich auch konfigurieren. Wir schätzen, dass wir hierfür ca. 6 Stunden benötigen. Unser Stundensatz beträgt 100€.
+- Zunächst brauchen Sie auch unbedingt ein Anti-Viren Programmda damit sich keine Viren auf Ihrem Webserver einschleichen und Ihr Webserver dadurch zerstört wird. Hier haben wir mehrere Möglichkeiten: z.B. eine kostenlose Variante (ClamAV), welche wir sehr empfehlen können. Alternativ können sie auch eine kostenpflichtige Lösung wie z.B. SentinelOne nutzen. Die bieten häufig ein höheres Maß an Sicherheit, liegen aber bei ca. 45€ im Jahr.
+
+- Als Nächstes benötigen wir auch noch einen Cloud-Anbieter für das Hosting des Servers. Hier empfehle ich Ihnen "DigitalOcean", da diese sehr gut sind und eine große Auswahl an verschiedenen Servern preisgünstig anbieten. Hier ein Beispiel: Einmal der (Kubernetes Server) der kostet 12€ im Monat und bietet sich sehr gut für Ihren Webserver an da er  sehr einfach zu konfigurieren und sehr flexibel in der Nutzung ist. Dazu ist die Leistung sehr gut.
+
+- Der Server steht in Deutschland (Frankfurt) das heißt man muss sich keine Sorgen um irgendwas machen falls was mal nicht funktioniert. Wenn der Server zum Beispiel in den USA stehen würde, kommt es zwangsläufig zu Verzögerungen zwischen Server und Cloudanbieter.
+
+- Installation und Konfiguration: 600€
+- Monatliche Kosten Server: 12€
+- Monatliche Kosten Wartung und Plege 100€
+- *Optional* Anti-Viren Solution SentinelOne: 45€/Jahr
+
+
+Ich hoffe, ich konnte Ihnen einen ersten Überblick geben und freuhe mich auf Ihre Rückmeldung.
