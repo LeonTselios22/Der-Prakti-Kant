@@ -31,7 +31,7 @@ Hacking:
   - Was bdeuetet Ethical hacking
 
 Konzern Linux: 
-  - Nenne 3 Linux Distros, die von Konzernen genutzt werden. 
+  - Nenne 3 Linux Distros, die von Konzernen genutzt werden.
   - Nenne 2 Vor/Nachteile von Opensouce/Community Linux Distros im Vergleich zu Konzern Linux Distros
   - Erläutere, mit welchem OpenSource Linux Distros Red Hat verbunden ist und warum?
   - Wie hat sich Red Hat in den vergangenen Monaten gegenüber der OpenSource Community verhalten?
@@ -165,6 +165,63 @@ Hacking: Man kann Hacking in unterschiedlichen Kontexten verstehen.
 1. (Positives Hacken): (Ethical Hacking) in diesem Kontext bezieht sich Hacking auf das Testen von Computersystemen oder Netzwerken auf Schwachstellen durch Sicherheitsexperten.
 
 2. Negatives Hacking (Cyberkriminalität): Oft wird der Begriff Hacking mit illegalen Aktivitäten in Verbindung gebracht, bei denen Personen unbefugten Zugriff auf Computersysteme oder Netzwerke erlangen, um Daten zu stehlen, Systeme zu beschädigen oder andere schädliche Aktivitäten durchzuführen.
+
+--------------------------------------------------------------------
+
+1. Ubuntu
+2. Oracle Linux
+3. CentOS
+
+-----------------------------------
+
+Vorteil: Die OpenSource Distros sind kostenfrei
+         Bei den OpenSource Distros gibt es eine große Community wo jeder der möchte mithelfen kann den Code weiter zu entwickeln oder Bugs zu Fixen.
+
+Nachteil: Es gibt kein Support also falls was nicht funktioniert kann niemand helfen.
+          Mangel an Standardisierung es kann zu Mängeln zwischen Distro und Computer kommen.
+
+-------------------------------------
+
+Red Hat ist mit verschiedenen Open-Source-Projekten verbunden. Eine der wichtigsten ist das Fedora-Projekt. Fedora ist eine von der Community unterstützte Linux-Distribution, die als Vorabversion für die Entwicklungen von Red Hat Enterprise Linux (RHEL) dient.
+Hier sind ein paar Gründe warum diese verbunden sind:
+-Community-Engagement
+-Upstream-Entwicklung: Das bedeutet, dass viele der Funktionen, Verbesserungen und Technologien, die in Fedora entwickelt und getestet werden, später in RHEL integriert werden.
+
+----------------------------------------
+Red Hat ist ihrer OpenSource Community entgegengekommen und hat ihnen gesagt das die Community auch wieder zugang bekommen obwohl sie Nicht-Kunden sind. Außerdem wenn mal ein Fehler gefunden wird profitiert nicht nur Red Hat davon sondern auch die gesamte Community.
+
+-----------------------------------------
+
+-Arch Linux
+-Debian
+- CentOS
+-Ubuntu
+-Fedora
+
+-----------------------------------------
+
+Ich würde kein Rolling Release nutzen für mein Linux, weil Rolling Releases neigen dazu, neueste Softwareversionen schneller zu integrieren, was zwar Vorteile für Desktop-Systeme haben kann, aber potenziell zu Kompatibilitätsproblemen auf Servern führen könnte. 
+Außerdem ist Rolling Release ein Veröffentlichungs Modell was immer wieder neue Updates bekommt anstatt eine große Software rauszubringen.
+
+------------------------------------------
+
+Im Serverumfeld bezieht sich der Begriff "Bare Metal" auf die Ausführung von Software oder Betriebssystemen direkt auf der physischen Hardware, ohne eine zusätzliche Abstraktionsschicht wie eine Virtualisierungsebene oder ein Betriebssystem-Hypervisor.
+Mit anderen Worten bedeutet Bare Metal, dass die Software direkt auf den "nackten" physischen Ressourcen des Servers läuft.
+
+----------------------------------------
+
+Sicherheitsvorkehrungen:
+-Starkes Passwort oder Schlüssel
+-Firewall Konfiguration erschwärt Angriffe
+-Root Login deaktivieren: das bedeutet das man sich als Benutzer anmelden muss mit sein eigenen Daten
+-Regelmäßige Updates um Sicherheitslücken zu schließen
+
+
+
+
+
+
+
 
 
 
