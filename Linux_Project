@@ -1,0 +1,47 @@
+Hallo Leon. 
+
+Anbei das neue Projekt aus der Finanzabteilung. 
+
+Wir benötigen einen Desktop-Server, da meine Kollegen mit der Commandline nicht so gut klar kommen. 
+
+Hierzu möchte ich dich bitten folgendes in einer VM zu installieren. 
+
+Betriebssystem: Arch Linux
+Desktop: Cinnemon
+Software: Nextcloud, antiviren Program, firefox
+Installation via: archinstall / https://wiki.archlinux.org/title/Archinstall
+
+F: Kannst du mir sagen, was die besonderen Merkmale an Arch sind? Ist das besser für sowas geeignet als ein Debian?
+
+Benutzer:
+Achim
+Joachim
+Peter
+
+Dabei soll bitte Joachim sudo rechte haben. Achim und Peter nicht. 
+Installiere bitte Nextcloud und lege dort auch die Kollegen als User an.
+Ich bräuchte bitte noch den Befehl, wie ich schauen kann, wer sich wann am System angemeldet hat. Also welcher User wann. Kann man sehen, wer aktuell angemeldet ist?
+
+
+Bitte lege mir auch einen User an: 
+
+Name: Captain
+Berechtigung: Sudo
+
+Da ich ebenfalls im Terminal arbeiten möchte, installieren mit doch bitte anstatt bash die ZSH und das Plugin OH MY ZSH mit dem Theme "fox". 
+Eine Anleitung dazu findest du hier: https://ohmyz.sh/
+
+Dann brauchen wir abschließend noch folgende Fragen geklärt: 
+
+Welche Ports sind bei dem Server offen. 
+Wie groß sind die Festplatten (bitte mit df -h anschauen)
+Kannst du mir erklären, was es mit Benutzer und Gruppen auf sich hat? Also was ist da der unterschied?
+
+Weiterbildung: 
+Ich wurde die Kollegen gerne besser an das Thema Linux ranbringen. Kannst du mir bitte 2-3 Weiterbildungsmöglichkeiten schicken? Was bringen eigentlich so Zertifizierungen? Habe von dieser CKA gehört, kennst du die? Oder diese Lpic?
+Was muss man da so können? Wieviele Stunden schätzt du hier für die Vorbereitung. 
+
+(i) Von Marcel: Der archinstall befehl ist etwas kniffelig am Anfang, aber du wirst vieles lernen, was ein Betriebssystem brauch um zu funktionieren. Wenn die Installation nicht direkt gelinkt, gib nicht auf, sondern schau mal, woran hat es jelegen und versuch es nochmal. 
+
+
+
