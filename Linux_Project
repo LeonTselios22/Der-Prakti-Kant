@@ -12,11 +12,12 @@ Software: Nextcloud, antiviren Program, firefox
 Installation via: archinstall / https://wiki.archlinux.org/title/Archinstall
 
 F: Kannst du mir sagen, was die besonderen Merkmale an Arch sind? Ist das besser für sowas geeignet als ein Debian?
+Merkmale: ArchLinux ist ein Rolling Release Distro, Es ist Benutzfreundlich
 
 Benutzer:
-Achim
-Joachim
-Peter
+Achim: default:12345
+Joachim: default123
+Peter: default1234
 
 Dabei soll bitte Joachim sudo rechte haben. Achim und Peter nicht. 
 Installiere bitte Nextcloud und lege dort auch die Kollegen als User an.
@@ -25,7 +26,7 @@ Ich bräuchte bitte noch den Befehl, wie ich schauen kann, wer sich wann am Syst
 
 Bitte lege mir auch einen User an: 
 
-Name: Captain
+Name: Captain Passwort: captain
 Berechtigung: Sudo
 
 Da ich ebenfalls im Terminal arbeiten möchte, installieren mit doch bitte anstatt bash die ZSH und das Plugin OH MY ZSH mit dem Theme "fox". 
