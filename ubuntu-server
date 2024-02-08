@@ -1,0 +1,59 @@
+### Anfrage: 
+
+Hallo Leon. 
+Wir haben hier wieder eine Kundenanfrage. 
+
+Dieser benötigt folgendes: 
+
+OS: Debian als Server (Wir benötigen kein Desktop)
+
+Benutzer: Root // Patrick // Joachim // Ralf // Ralf soll sudo rechte haben und zsh als standard Shell
+Software: antiviren // htop // git // curl // zsh // docker // neofetch / 
+------
+Dockeraufgabe: 
+
+Erstelle dir einen kostenlosen Docker Hub account. 
+
+Nutze Docker Login um dich per Terminal von der VM auf deinen Docker Account anzuloggen. 
+
+Schreibe einen dockerfile. 
+Dieser sollte folgende Spezifikationen haben: 
+
+OS: Alpine Linux
+Skript: Es soll ein Python skript laufen, das DURCHGEHEND eine Printausgabe macht. "Ich bin ein Container" (while schleife)
+
+Lade diesen Container dann auf Dockerhub hoch (Öffentlicher container.)
+
+Der Kunde wünscht, dass 3 Docker Container mit dem von uns erstellen Alpine Linux auf dem laufen. 
+  -  RPH-1
+  -  RPH-2
+  -  RPM-3
+
+-------
+Weitere Anfrage: 
+
+Der Kunde wünscht einen job, der immer Montags ums 12:00 den Befehl apt update durchführt. 
+Sowie einen weiteren Job, der eine Stunde später dann ein apt upgrade als root durchführt.
+
+--------
+
+Weitere Fragen: 
+
+- Was ist denn Alpine Linux schon wieder?
+- Wer ist der Root, der auf jedem Server schon angelegt ist?
+- Was hat es mit XFCE / GNOME / KDE zu tun?
+- Was ist Ansible?
+- Was wäre eine Alternative zu Dockerhub?
+- Was war nochmal diese flüchtigkeit bei Containern?
+- Warum ist eine Work Life Balance wichtig?
+- Kann man von zuviel Arbeiten krank werden?
+- Wieviel Stunden darf man/Tag denn überhaupt lt. Gesetz arbeiten?
+- Wieviele Stunden Freizeit müssen zwischen meinen Arbeitstagen liegen?
+
+
+
+
+
+
+
+
