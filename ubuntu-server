@@ -33,7 +33,14 @@ Der Kunde wünscht, dass 3 Docker Container mit dem von uns erstellen Alpine Lin
 Weitere Anfrage: 
 
 Der Kunde wünscht einen job, der immer Montags ums 12:00 den Befehl apt update durchführt. 
+Mit diesem Befehl wird es jeden Tag ausgeführt: 0 12 * * 1 apt update
+
+Davor muss man crontab -e schreiben.
+
 Sowie einen weiteren Job, der eine Stunde später dann ein apt upgrade als root durchführt.
+Mit diesem Befehl wird es jeden Tag ausgeführt: 0 13 * * 1 apt upgrade -y
+
+Ist jetzt am Funktinieren
 
 --------
 
