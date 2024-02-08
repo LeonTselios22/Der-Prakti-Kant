@@ -47,6 +47,10 @@ Ist jetzt am Funktinieren
 Weitere Fragen: 
 
 - Was ist denn Alpine Linux schon wieder?
+
+Alpine Linux ist eine Linux-Distribution, die für Sicherheit, Einfachheit bekannt ist. Sie wurde entwickelt, um eine minimale Betriebssystemumgebung bereitzustellen, die für den Einsatz in Containern, virtuellen Maschinen und eingebetteten Systemen optimiert ist.
+
+
 - Wer ist der Root, der auf jedem Server schon angelegt ist?
 - Was hat es mit XFCE / GNOME / KDE zu tun?
 - Was ist Ansible?
