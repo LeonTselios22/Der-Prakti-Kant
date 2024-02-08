@@ -35,12 +35,43 @@ Eine Anleitung dazu findest du hier: https://ohmyz.sh/
 Dann brauchen wir abschließend noch folgende Fragen geklärt: 
 
 Welche Ports sind bei dem Server offen. 
+-5353
+-323
+-53
+-42792
+-53
+
+
 Wie groß sind die Festplatten (bitte mit df -h anschauen)
+Hauptfestplatte: 20Gb
+Temporäre: 1,4GB
+Boot Festplatte: 1GB
+
 Kannst du mir erklären, was es mit Benutzer und Gruppen auf sich hat? Also was ist da der unterschied?
+
+-Die Verwendung von Benutzern und Gruppen ermöglicht eine bessere Kontrolle über die Zugriffsrechte auf dem System. Zum Beispiel kann ein Administrator bestimmten Benutzern den Zugriff auf bestimmte Dateien gewähren, indem er sie Mitglied einer bestimmten Gruppe macht, die Zugriff auf diese Dateien hat, anstatt die Zugriffsrechte für jeden Benutzer einzelnt einzurichten.
 
 Weiterbildung: 
 Ich wurde die Kollegen gerne besser an das Thema Linux ranbringen. Kannst du mir bitte 2-3 Weiterbildungsmöglichkeiten schicken? Was bringen eigentlich so Zertifizierungen? Habe von dieser CKA gehört, kennst du die? Oder diese Lpic?
 Was muss man da so können? Wieviele Stunden schätzt du hier für die Vorbereitung. 
+
+2. Weiterbildungsmöglichkeiten
+
+-Certified Kubernetes Administrator (CKA)
+-Linux Professional Institute Certification (LPIC)
+
+------------
+Durch die Zertifizierungen hat man viele Karrierevorteile wie z.b der Verdienst oder auch die Weiterentwicklung dadurch.
+
+
+Hab bis jetzt nur von CKA (Certified Kubernetes Administrator) was gehört aber von LPIC bis jetzt noch nicht.
+
+------------------
+Also man sollte auf jeden fall Grundlegendes Linux wissen haben außerdem sollte man auch in der Lage sein mit der Kommandozeile umgehen zu können.
+
+Ich denke das die Vorbeireitung zwischen 6-8 Stunden varrieren kann.
+
+
 
 (i) Von Marcel: Der archinstall befehl ist etwas kniffelig am Anfang, aber du wirst vieles lernen, was ein Betriebssystem brauch um zu funktionieren. Wenn die Installation nicht direkt gelinkt, gib nicht auf, sondern schau mal, woran hat es jelegen und versuch es nochmal. 
 
