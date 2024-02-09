@@ -52,8 +52,15 @@ Alpine Linux ist eine Linux-Distribution, die für Sicherheit, Einfachheit bekan
 
 
 - Wer ist der Root, der auf jedem Server schon angelegt ist?
+Der Root-Benutzer ist ein spezielles Konto auf Unix- und Unix-ähnlichen Betriebssystemen wie Linux. Der Root-Benutzer hat uneingeschränkten Zugriff auf alle Dateien, Befehle und Systemressourcen auf einem System. 
+
 - Was hat es mit XFCE / GNOME / KDE zu tun?
+XFCE, GNOME und KDE sind alle Desktop-Umgebungen für Unix- und Unix-ähnliche Betriebssysteme wie Linux. 
+
+
 - Was ist Ansible?
+
+
 - Was wäre eine Alternative zu Dockerhub?
 - Was war nochmal diese flüchtigkeit bei Containern?
 - Warum ist eine Work Life Balance wichtig?
