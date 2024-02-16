@@ -8,6 +8,8 @@ Aufgabe:
 ### Docker
 1. Was ist Docker compose?
 
+- Docker Compose ist ein Tool, das es Entwicklern ermöglicht, mehrere Docker-Container zu definieren, zu verwalten. die zusammenarbeiten, um eine Anwendung zu bilden. 
+
 ### Kubernetes
 
 1. Was ist Kubernetes?
